@@ -1,0 +1,3 @@
+C:/Users/podda/CLionProjects/lz78/cmake-build-debug/CMakeFiles/lz78.dir
+C:/Users/podda/CLionProjects/lz78/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/podda/CLionProjects/lz78/cmake-build-debug/CMakeFiles/rebuild_cache.dir
