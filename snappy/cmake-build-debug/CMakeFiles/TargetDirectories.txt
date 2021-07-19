@@ -1,3 +1,0 @@
-C:/Users/podda/CLionProjects/exam/cmake-build-debug/CMakeFiles/exam.dir
-C:/Users/podda/CLionProjects/exam/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/podda/CLionProjects/exam/cmake-build-debug/CMakeFiles/rebuild_cache.dir
